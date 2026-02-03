@@ -11,5 +11,4 @@ GOOGLE_API_KEY = os.getenv(
     "GOOGLE_API_KEY",
     "AIzaSyB3FtIfwNSi3EbwKEuwK1TKoK5D5PUrkK4"
 )
-LLM_MODEL = "gemini-2.5-flash"
-EMBEDDING_MODEL= "bkai-foundation-models/vietnamese-bi-encoder"
+

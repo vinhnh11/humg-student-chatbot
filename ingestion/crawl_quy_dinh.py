@@ -117,11 +117,5 @@ async def main():
     print("\nHOÀN TẤT!")
 
 
-def run_crawl():
-    import asyncio
-    asyncio.run(main())
-
-
 if __name__ == "__main__":
-    run_crawl()
-
+    asyncio.run(main())

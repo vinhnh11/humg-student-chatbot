@@ -1,0 +1,30 @@
+# Core
+python-dotenv
+
+# Crawl dữ liệu
+playwright
+requests
+beautifulsoup4
+
+# OCR PDF
+pytesseract
+pdf2image
+Pillow
+
+# LangChain & RAG
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+
+# Vector Database
+faiss-cpu
+
+# Embedding model
+transformers
+sentence-transformers
+torch
+
+# Async
+asyncio
+
